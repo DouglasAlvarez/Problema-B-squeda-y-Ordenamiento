@@ -1,6 +1,6 @@
 # Problema-Busqueda-y-Ordenamiento :computer:
 
-![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
+![version]([https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png](https://i.ytimg.com/vi/QrM2ofM5Dz4/maxresdefault.jpg)) 
 
 ## Tabla de Contenido
 
