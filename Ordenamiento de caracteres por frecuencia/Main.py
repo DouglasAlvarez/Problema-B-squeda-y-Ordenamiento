@@ -10,7 +10,7 @@ class Solution:
         output = sorted(output, key=len, reverse = True) 
         return "".join(output)
     
-for i in range (10):  
+for i in range (100):  
       
     mi_texto = Generador_texto()
     texto_aorden = mi_texto.generador_texto_aleatorio() 
