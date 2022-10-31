@@ -20,7 +20,7 @@ _El algoritmo utilizado para el desarrollo del trabajo fue:_
 _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Python](https://www.python.org) - Lenguaje de Programación
-* * [LeetCode](https://leetcode.com) - Plataforma Web
+* [LeetCode](https://leetcode.com) - Plataforma Web
 * [Visual Studio Code](https://code.visualstudio.com) - Editor de Código Fuente
 
 <p
@@ -31,4 +31,11 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 ## Documentacion
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
 * [Problema de Búsqueda y Ordenamiento]()
+
+## Autores
+* DOUGLAS ARLEY ALVAREZ OCHOA - 1151923
+* SAID FERNANDO LOPEZ GONZALES - 1151925
+
+
+
 
