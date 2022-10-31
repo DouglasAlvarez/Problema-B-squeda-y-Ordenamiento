@@ -14,8 +14,22 @@
 ## Algoritmo
 _El algoritmo utilizado para el desarrollo del trabajo fue:_
 * <b> Sort Characters By Frequency </b>
-* Dada una cadena s, ordénela en orden decreciente según la frecuencia de los caracteres. La frecuencia de un carácter es el número de veces que aparece en la cadena. Devuelve la cadena ordenada. Si hay varias respuestas, devuelve cualquiera de ellas.
-ghjjfgh
+Dada una cadena s, ordénela en orden decreciente según la frecuencia de los caracteres. La frecuencia de un carácter es el número de veces que aparece en la cadena. Devuelve la cadena ordenada. Si hay varias respuestas, devuelve cualquiera de ellas.
+
+*Ejemplo 1:
+Input: s = "tree"
+Output: "eert"
+Explicación: El caracter 'e' aparece al principio del string ya que aparec dos veces en el string y las letras 't' y  'r' solo una vez; El resultado "eert" tambien es una solucion valida.
+
+*Ejemplo 2:
+Input: s = "cccaaa"
+Output: "aaaccc"
+Explicación: Ambos caracteres aparecen tres veces, entonces la solucion "cccaaa" tambien es valida, la solucion "cacaca" es incorrecta ya que el mismo caracter debe estar junto.
+
+*Ejemplo 3:
+Input: s = "Aabb"
+Output: "bbAa"
+Explicación: la solucion "bbaA" tambien es una respuesta valida, pero "Aabb" es incorrecto ya que el caracter 'A' y 'a' son tratados como 2 caracteres distintos.
 
 ## Herramientas 
 
