@@ -36,6 +36,11 @@ _Puedes visualizar la documentacion en el siguiente enlace:_
 * DOUGLAS ARLEY ALVAREZ OCHOA - 1151923
 * SAID FERNANDO LOPEZ GONZALES - 1151925
 
+## Conclusiones
 
 
 
+
+## Bibliografía
+
+* Problema en <b> Python </b> tomados de la plataforma web <b> [LeetCode] *(https://leetcode.com/problems/sort-characters-by-frequency/)
