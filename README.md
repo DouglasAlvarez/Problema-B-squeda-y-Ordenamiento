@@ -14,6 +14,8 @@
 ## Algoritmo
 _El algoritmo utilizado para el desarrollo del trabajo fue:_
 * <b> Sort Characters By Frequency </b>
+* Dada una cadena s, ordénela en orden decreciente según la frecuencia de los caracteres. La frecuencia de un carácter es el número de veces que aparece en la cadena. Devuelve la cadena ordenada. Si hay varias respuestas, devuelve cualquiera de ellas.
+ghjjfgh
 
 ## Herramientas 
 
