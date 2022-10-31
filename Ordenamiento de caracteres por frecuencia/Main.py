@@ -1,4 +1,4 @@
-from gene import Generador_texto
+from Generador import Generador_texto
 
 class Solution:
 
