@@ -18,8 +18,8 @@ Dada una cadena s, ordénela en orden decreciente según la frecuencia de los ca
 
 Ejemplo 1:
 * <b>Input: s = "tree" </b>
-Output: "eert"
-Explicación: El caracter 'e' aparece al principio del string ya que aparec dos veces en el string y las letras 't' y  'r' solo una vez; El resultado "eert" tambien es una solucion valida.
+* <b>Output: "eert" </b>
+* <b>Explicación: El caracter 'e' aparece al principio del string ya que aparec dos veces en el string y las letras 't' y  'r' solo una vez; El resultado "eert" tambien es una solucion valida. </b>
 
 *Ejemplo 2:
 Input: s = "cccaaa"
