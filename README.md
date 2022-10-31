@@ -19,17 +19,17 @@ Dada una cadena s, ordénela en orden decreciente según la frecuencia de los ca
 Ejemplo 1:
 * <b>Input: s = "tree" </b>
 * <b>Output: "eert" </b>
-* <b>Explicación: El caracter 'e' aparece al principio del string ya que aparec dos veces en el string y las letras 't' y  'r' solo una vez; El resultado "eert" tambien es una solucion valida. </b>
+* <b>Explicación: El caracter 'e' aparece al principio del string ya que aparec dos veces en el string y las letras 't' y  'r' solo una vez; el resultado "eert" tambien es una solucion valida. </b>
 
-*Ejemplo 2:
-Input: s = "cccaaa"
-Output: "aaaccc"
-Explicación: Ambos caracteres aparecen tres veces, entonces la solucion "cccaaa" tambien es valida, la solucion "cacaca" es incorrecta ya que el mismo caracter debe estar junto.
+Ejemplo 2:
+* <b>Input: s = "cccaaa" </b>
+* <b>Output: "aaaccc" </b>
+* <b>Explicación: Ambos caracteres aparecen tres veces, entonces la solucion "cccaaa" tambien es valida, la solucion "cacaca" es incorrecta ya que el mismo caracter debe estar junto. </b>
 
-*Ejemplo 3:
-Input: s = "Aabb"
-Output: "bbAa"
-Explicación: la solucion "bbaA" tambien es una respuesta valida, pero "Aabb" es incorrecto ya que el caracter 'A' y 'a' son tratados como 2 caracteres distintos.
+Ejemplo 3:
+* <b>Input: s = "Aabb" </b>
+* <b>Output: "bbAa" </b>
+* <b>Explicación: la solucion "bbaA" tambien es una respuesta valida, pero "Aabb" es incorrecto ya que el caracter 'A' y 'a' son tratados como 2 caracteres distintos. </b>
 
 ## Herramientas 
 
