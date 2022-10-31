@@ -62,3 +62,4 @@ _Puedes visualizar la documentacion en el siguiente enlace:_
 ## Bibliografía
 
 * Problema en <b> Python </b> tomados de la plataforma web <b> [LeetCode] *(https://leetcode.com/problems/sort-characters-by-frequency/)
+* Desafío para desarrolladores (https://www.grupodigital.eu/blog/desafios-para-desarrolladores/#8_LeetCode)
