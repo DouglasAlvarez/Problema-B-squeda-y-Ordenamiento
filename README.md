@@ -16,8 +16,8 @@ _El algoritmo utilizado para el desarrollo del trabajo fue:_
 * <b> Sort Characters By Frequency </b>
 Dada una cadena s, ordénela en orden decreciente según la frecuencia de los caracteres. La frecuencia de un carácter es el número de veces que aparece en la cadena. Devuelve la cadena ordenada. Si hay varias respuestas, devuelve cualquiera de ellas.
 
-_Ejemplo 1:_
-Input: s = "tree"
+Ejemplo 1:
+* <b>Input: s = "tree" </b>
 Output: "eert"
 Explicación: El caracter 'e' aparece al principio del string ya que aparec dos veces en el string y las letras 't' y  'r' solo una vez; El resultado "eert" tambien es una solucion valida.
 
