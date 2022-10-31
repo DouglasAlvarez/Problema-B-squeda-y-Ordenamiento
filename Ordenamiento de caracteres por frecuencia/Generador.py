@@ -13,10 +13,3 @@ class Generador_texto:
         for i in range(self.generador_tamanio_texto()):
             texto += random.choice(self.caracteres)
         return texto 
-    
-   
-
-
-
-
-  
