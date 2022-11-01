@@ -46,18 +46,22 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
    <img src="https://www.comparasoftware.com/wp-content/uploads/2018/08/logovisualstudiocode.png" width="80" height="64" >
 </p>
 
-## Documentacion
+## Documentación
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
 * [Problema de Búsqueda y Ordenamiento]()
+
+## Video
+_Puedes visualizar el video realizado en el siguiente enlace:_
+* [https://youtu.be/-atBgm_LVSA]
 
 ## Autores
 * DOUGLAS ARLEY ALVAREZ OCHOA - 1151923
 * SAID FERNANDO LOPEZ GONZALES - 1151925
 
 ## Conclusiones
-
-
-
+* La respuesta de salida que nos puede arrojar el algoritmo Sort Characters By Frequency, como por ejemplo que se ingrese la palabra "tree", este nos arrojaría de salidas "eert" y también "eetr", ambas son válidas ya que están ordenados ante todo por el nivel de frecuencia.
+* Si los caracteres dados en la entrada presentan la misma frecuencia, las salidas de estos podrán estar de principio o de final, por ejemplo: la entrada "cccaaa", el string respuesta podrá ser de la forma "aaaccc" o como estuvo al principio de la forma "cccaaa".
+* Las entradas que presentan caracteres de la misma letra pero en mayúsculas serán tomadas como caracteres independientes a sus homogéneos en minúsculas.
 
 ## Bibliografía
 
