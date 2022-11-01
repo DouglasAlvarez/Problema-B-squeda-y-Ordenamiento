@@ -7,6 +7,7 @@
 * [Algoritmo:memo:](#Algoritmos)
 * [Herramientas Utilizadas :memo:](#Herramientas)
 * [Documentacion :memo:](#Documentacion)
+* [Video :memo:](#Video)
 * [Autores :memo:](#autores)
 * [Conclusiones :memo:](#Conclusiones)
 * [Bibliografía :memo:](#bibliografía)
