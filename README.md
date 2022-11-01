@@ -46,7 +46,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
    <img src="https://www.comparasoftware.com/wp-content/uploads/2018/08/logovisualstudiocode.png" width="80" height="64" >
 </p>
 
-## Documentación
+## Documentacion
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
 * [Problema de Búsqueda y Ordenamiento](https://drive.google.com/file/d/1QjYKfQIAtwfXIXyRdrumAjz1Rio7u3C1/view)
 
