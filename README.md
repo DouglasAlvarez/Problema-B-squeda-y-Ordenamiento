@@ -48,11 +48,11 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 ## Documentación
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
-* [Problema de Búsqueda y Ordenamiento]()
+* [Problema de Búsqueda y Ordenamiento](https://drive.google.com/file/d/1QjYKfQIAtwfXIXyRdrumAjz1Rio7u3C1/view)
 
 ## Video
 _Puedes visualizar el video realizado en el siguiente enlace:_
-* [https://youtu.be/-atBgm_LVSA]
+* [Sort Characters By Frequency - 1151923, 1151925.](https://youtu.be/-atBgm_LVSA)
 
 ## Autores
 * DOUGLAS ARLEY ALVAREZ OCHOA - 1151923
