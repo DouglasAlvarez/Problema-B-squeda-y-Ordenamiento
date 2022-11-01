@@ -65,5 +65,5 @@ _Puedes visualizar el video realizado en el siguiente enlace:_
 
 ## Bibliografía
 
-* Problema en <b> Python </b> tomados de la plataforma web <b> [LeetCode] *(https://leetcode.com/problems/sort-characters-by-frequency/)
+* Problema realizado en <b> Python </b> tomado de la plataforma web <b> [LeetCode] *(https://leetcode.com/problems/sort-characters-by-frequency/)
 * Desafío para desarrolladores (https://www.grupodigital.eu/blog/desafios-para-desarrolladores/#8_LeetCode)
